@@ -1,0 +1,13 @@
+C:\Users\papahjahat\Documents\Project C#\CodingCampFinal\CodingCampFinal\bin\Debug\netcoreapp3.1\CodingCampFinal.exe
+C:\Users\papahjahat\Documents\Project C#\CodingCampFinal\CodingCampFinal\bin\Debug\netcoreapp3.1\CodingCampFinal.deps.json
+C:\Users\papahjahat\Documents\Project C#\CodingCampFinal\CodingCampFinal\bin\Debug\netcoreapp3.1\CodingCampFinal.runtimeconfig.json
+C:\Users\papahjahat\Documents\Project C#\CodingCampFinal\CodingCampFinal\bin\Debug\netcoreapp3.1\CodingCampFinal.runtimeconfig.dev.json
+C:\Users\papahjahat\Documents\Project C#\CodingCampFinal\CodingCampFinal\bin\Debug\netcoreapp3.1\CodingCampFinal.dll
+C:\Users\papahjahat\Documents\Project C#\CodingCampFinal\CodingCampFinal\bin\Debug\netcoreapp3.1\CodingCampFinal.pdb
+C:\Users\papahjahat\Documents\Project C#\CodingCampFinal\CodingCampFinal\obj\Debug\netcoreapp3.1\CodingCampFinal.csproj.AssemblyReference.cache
+C:\Users\papahjahat\Documents\Project C#\CodingCampFinal\CodingCampFinal\obj\Debug\netcoreapp3.1\CodingCampFinal.AssemblyInfoInputs.cache
+C:\Users\papahjahat\Documents\Project C#\CodingCampFinal\CodingCampFinal\obj\Debug\netcoreapp3.1\CodingCampFinal.AssemblyInfo.cs
+C:\Users\papahjahat\Documents\Project C#\CodingCampFinal\CodingCampFinal\obj\Debug\netcoreapp3.1\CodingCampFinal.csproj.CoreCompileInputs.cache
+C:\Users\papahjahat\Documents\Project C#\CodingCampFinal\CodingCampFinal\obj\Debug\netcoreapp3.1\CodingCampFinal.dll
+C:\Users\papahjahat\Documents\Project C#\CodingCampFinal\CodingCampFinal\obj\Debug\netcoreapp3.1\CodingCampFinal.pdb
+C:\Users\papahjahat\Documents\Project C#\CodingCampFinal\CodingCampFinal\obj\Debug\netcoreapp3.1\CodingCampFinal.genruntimeconfig.cache
